@@ -52,16 +52,20 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Recorte de Jornal:
+text = "Notas manchadas de um guarda
 
-18 de Abril de 1188
-
-Já passam de 2.000 vítimas fatais da
-maldita praga que assola o Reino. 
-Doutores e curandeiros ainda não
-entendem qual é a causa do contágio
-e tampouco sua origem. Até o momento
-as buscas pela cura tem sido em vão."
+06 Maio de 1350
+Não estou me segurando em pé, 
+Hanz morreu ontem e fiquei
+sabendo que levou seu filho e 
+esposa juntos, era um homem 
+calmo e racional.
+Acredito que meu destino será 
+o mesmo se não procurar um 
+médico, vou fazer uma última 
+patrulha e fugir deste maldito 
+lugar. Só não sei se vou 
+desmaiar no meio do caminho."
 __meta__ = {
 "_edit_use_anchors_": true
 }

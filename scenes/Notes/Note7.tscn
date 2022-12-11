@@ -52,14 +52,18 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Diario velho de um guarda parte 2/4:
+text = "Pedaço de jornal velho
 
-Estava patrulhando as catacumbas
-quando me esbarrei em um dos caixões,
-quando o mesmo caiu em mim ele
-estava vazio... podia jurar que tínhamos
-colocados os restos daquele prisioneiro
-lá dentro."
+Minha opinião é que devemos evitar 
+passar perto dos mendigos desta 
+cidade, estes estão cada vez mais 
+violentos e nojentos. Andem sempre 
+com seus guardas.
+A aristocracia desta cidade não pode 
+ser atacada por estes vermes.
+
+Lorde Bureau.
+"
 __meta__ = {
 "_edit_use_anchors_": true
 }

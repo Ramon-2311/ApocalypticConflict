@@ -52,18 +52,12 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Prisioneira anônima:
+text = "Nota velha
 
-Sempre achei que fui uma boa pessoa,
-uma mãe que dedicou toda a vida aos
-filhos. Não sei o motivo de estar presa
-aqui. Eu olho para todos os lados e só 
-vejo escuridão, sinto muito medo e frio.
-Vivo na esperança de ver a luz do sol 
-novamente, de sentir o calor dos braços
-do meu marido, nunca estive no inferno
-mas imagino que não seja muito pior do
-que esse lugar. 
+Deus perdoe meus pecados, 
+meu filho não merecia isso, 
+minhas mãos estão sujas e eu 
+não vi o que tinha feito.
 "
 __meta__ = {
 "_edit_use_anchors_": true

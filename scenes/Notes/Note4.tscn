@@ -52,17 +52,20 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Registro velho de um guarda:
+text = "Notas de um guarda
 
-Durante minha última ronda,
-escutei uns barulhos vindo do
-calabouço. Uns ruídos estranhos,
-mais estranhos do que o comum.
-Este lugar é nojento, ratos e morcegos
-dividem o mesmo espaço.
-Fiquem atentos a qualquer movimento
-suspeito, estou meio doente,
-pode ser minha imaginação."
+05 Maio de 1350
+
+Troquei de turno com o Hanz, fiz 
+este favor visto que ele fez o mesmo 
+no aniversário de minha filha, ele 
+disse que estava se sentindo doente. 
+Estava realmente com uma expressão 
+cansada… e tremendo muito.
+Também estou assim e nem por isso 
+larguei meu posto… não existem mais 
+homens como antigamente.
+"
 
 [node name="Pressione" type="Node2D" parent="."]
 

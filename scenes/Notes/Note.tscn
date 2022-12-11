@@ -28,7 +28,7 @@ animations = [ {
 "speed": 6.0
 } ]
 
-[node name="Note" type="Area2D"]
+[node name="Note1" type="Area2D"]
 position = Vector2( 86, 58 )
 script = ExtResource( 2 )
 
@@ -52,19 +52,13 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "
-Nota 1:  Pergaminho na parede
-“Mandado de Prisão: 16587
-  Data: 04 de Junho de ….
-  Nome: Rupert Grint
-  Acusação: Rupert Grint está sendo 
-acusado por traição e conspiração 
-contra a realeza de Grindemor. Tais 
-ações não serão toleradas.
-Sentença: Decapitação em praça pública.
-Assinado: General Grievous
-Glória a nação e ao 
-reinado de Ultred”"
+text = "Nota na parede
+2 Maio de 1350
+Nome: Lauen Backster
+Motivo da prisão: Roubo 
+de armas militares reais.
+Pena: 7 anos de prisão
+"
 
 [node name="Pressione" type="Node2D" parent="."]
 
@@ -84,7 +78,6 @@ scale = Vector2( 0.05, 0.05 )
 z_index = 2
 frames = SubResource( 5 )
 animation = "NoteOpening"
-frame = 1
 
 [connection signal="body_entered" from="." to="." method="_on_MessageBox_body_entered"]
 [connection signal="body_exited" from="." to="." method="_on_MessageBox_body_exited"]

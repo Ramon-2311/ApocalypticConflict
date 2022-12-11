@@ -52,16 +52,19 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Prisioneiro anônimo:
+text = "Notas de um guarda
 
-À minha amada esposa,
-Já perdi as contas de quantos dias
-estou aqui. Não consigo diferenciar
-o dia da noite por causa da escuridão
-que há no calabouço. Não sei quando
-ou se vou ser libertado. Fico me
-perguntando como você está Joana…
-Aguente mais um pouco."
+04 Maio de 1350
+Durante minha ronda noturna, 
+vi dois pontos vermelhos no fundo 
+deste maldito calabolço. era um 
+infeliz de um rato que mais parecia 
+uma capivara,  nunca vi um bicho 
+tão furioso quanto aquele. Mesmo 
+depois de meu cão ter o rasgado ao 
+meio, aquela criatura ainda 
+conseguiu me morder.
+"
 
 [node name="Pressione" type="Node2D" parent="."]
 

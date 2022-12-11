@@ -52,15 +52,7 @@ margin_bottom = 1491.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Diario velho de um guarda parte 4/4:
-
-Droga, estamos ficando sem tochas
-aqui... Podia jurar ter visto uma sombra
-se mexendo atrás de mim quando
-estava checando meus bolsos.
-Odeio esse posto, esse trabalho, tudo 
-isso!... Esse lugar me dá arrepios, juro
-que estou sendo observado…"
+text = "Se quer fugir, não venha por aqui."
 __meta__ = {
 "_edit_use_anchors_": true
 }

@@ -48,19 +48,24 @@ z_index = 3
 margin_left = -60.0
 margin_top = -40.0
 margin_right = 5794.0
-margin_bottom = 1491.0
+margin_bottom = 1609.0
 rect_scale = Vector2( 0.0702851, 0.0719653 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
-text = "Anotações do Guarda
-
-Formulário de Prisioneiro
-
-Nome: Rupert
-Idade: 20
-Altura: 1,75
-Profissão: Coletor de Impostos
-Motivo de prisão: Traição contra o reino."
+text = "Carta de Lauen
+6 Maio de 1350
+A quem estiver me procurando, 
+saiba que consegui fugi. 
+Minha sorte foi que aquele guarda
+infectado caiu de febre próximo a 
+minha cela, tive pouco tempo antes 
+de ele acordar faminto por sangue.
+Irei me juntar à resistência, e 
+encontrar meu irmão James. 
+Se você encontrar um baixinho
+ de cabelos brancos, diga que vou 
+encontrá-lo.
+"
 
 [node name="Pressione" type="Node2D" parent="."]
 
@@ -80,7 +85,6 @@ scale = Vector2( 0.05, 0.05 )
 z_index = 2
 frames = SubResource( 5 )
 animation = "NoteOpening"
-frame = 1
 
 [connection signal="body_entered" from="." to="." method="_on_MessageBox_body_entered"]
 [connection signal="body_exited" from="." to="." method="_on_MessageBox_body_exited"]

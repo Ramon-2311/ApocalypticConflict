@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="ShadowMaze"
+config/name="ApocalypticConflict"
 run/main_scene="res://scenes/UI/Fase1_TestesDeUI.tscn"
 config/icon="res://icon.png"
 
