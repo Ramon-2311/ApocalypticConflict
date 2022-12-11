@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/torch_1.png-c11cb2fa294df96238492e36cccdb6f2.stex"
+path="res://.import/torch_1.png-6acee97ba188fed83624ed8197ca7019.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Catacombs/Tocha/torch_1.png"
-dest_files=[ "res://.import/torch_1.png-c11cb2fa294df96238492e36cccdb6f2.stex" ]
+source_file="res://Assets/Catacombs/Tocha/torch_1.png"
+dest_files=[ "res://.import/torch_1.png-6acee97ba188fed83624ed8197ca7019.stex" ]
 
 [params]
 

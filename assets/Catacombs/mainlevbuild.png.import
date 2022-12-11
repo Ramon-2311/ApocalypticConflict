@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mainlevbuild.png-abb9bdf9929b122373e3f7aeef081871.stex"
+path="res://.import/mainlevbuild.png-91d6c99e6085faa827dd2e829dd1d4c2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Catacombs/mainlevbuild.png"
-dest_files=[ "res://.import/mainlevbuild.png-abb9bdf9929b122373e3f7aeef081871.stex" ]
+source_file="res://Assets/Catacombs/mainlevbuild.png"
+dest_files=[ "res://.import/mainlevbuild.png-91d6c99e6085faa827dd2e829dd1d4c2.stex" ]
 
 [params]
 

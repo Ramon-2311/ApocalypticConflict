@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Solid_black.png-1bdeb25522da2dc3ea61ce5f61a658dd.stex"
+path="res://.import/Solid_black.png-a557c3e56b6e524de67787ceca582ab6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/Maps/Solid_black.png"
-dest_files=[ "res://.import/Solid_black.png-1bdeb25522da2dc3ea61ce5f61a658dd.stex" ]
+source_file="res://Scenes/Maps/Solid_black.png"
+dest_files=[ "res://.import/Solid_black.png-a557c3e56b6e524de67787ceca582ab6.stex" ]
 
 [params]
 

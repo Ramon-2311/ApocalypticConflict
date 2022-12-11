@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/heart pixel art 64x64.png-9934a8203a3ff99bc791afce5857501a.stex"
+path="res://.import/heart pixel art 64x64.png-762cd9af0497ce070162e0829528ddd8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI/heart pixel art 64x64.png"
-dest_files=[ "res://.import/heart pixel art 64x64.png-9934a8203a3ff99bc791afce5857501a.stex" ]
+source_file="res://Assets/UI/heart pixel art 64x64.png"
+dest_files=[ "res://.import/heart pixel art 64x64.png-762cd9af0497ce070162e0829528ddd8.stex" ]
 
 [params]
 

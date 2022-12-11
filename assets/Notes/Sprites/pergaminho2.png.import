@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pergaminho2.png-4efc56bbbecdb08a1253780ef16b701b.stex"
+path="res://.import/pergaminho2.png-8ed0b3757527788aa264894dbcbeb683.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Notes/Sprites/pergaminho2.png"
-dest_files=[ "res://.import/pergaminho2.png-4efc56bbbecdb08a1253780ef16b701b.stex" ]
+source_file="res://Assets/Notes/Sprites/pergaminho2.png"
+dest_files=[ "res://.import/pergaminho2.png-8ed0b3757527788aa264894dbcbeb683.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pergaminho3.png-cd2cc4ff91d0eae864e844005434c5d4.stex"
+path="res://.import/pergaminho3.png-feb28a00613fa58e0d389de76eb801ec.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Notes/Sprites/pergaminho3.png"
-dest_files=[ "res://.import/pergaminho3.png-cd2cc4ff91d0eae864e844005434c5d4.stex" ]
+source_file="res://Assets/Notes/Sprites/pergaminho3.png"
+dest_files=[ "res://.import/pergaminho3.png-feb28a00613fa58e0d389de76eb801ec.stex" ]
 
 [params]
 

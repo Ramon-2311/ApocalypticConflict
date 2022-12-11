@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Rat.png-bb47a1a8417ec52c6f9df1acede4aada.stex"
+path="res://.import/Rat.png-5ce0b12f3e4472ea5fb12d1d092a56b1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Enemies/Rat.png"
-dest_files=[ "res://.import/Rat.png-bb47a1a8417ec52c6f9df1acede4aada.stex" ]
+source_file="res://Assets/Enemies/Rat.png"
+dest_files=[ "res://.import/Rat.png-5ce0b12f3e4472ea5fb12d1d092a56b1.stex" ]
 
 [params]
 

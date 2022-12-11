@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wolf3.png-4a2946563b753695607730e7a3de6fc4.stex"
+path="res://.import/Wolf3.png-2c842f3ac571e1dcb8c1ccabc566c7fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Enemies/Wolf3.png"
-dest_files=[ "res://.import/Wolf3.png-4a2946563b753695607730e7a3de6fc4.stex" ]
+source_file="res://Assets/Enemies/Wolf3.png"
+dest_files=[ "res://.import/Wolf3.png-2c842f3ac571e1dcb8c1ccabc566c7fa.stex" ]
 
 [params]
 
